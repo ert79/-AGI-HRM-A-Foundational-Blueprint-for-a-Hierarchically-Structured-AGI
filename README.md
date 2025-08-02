@@ -1,0 +1,2 @@
+# -AGI-HRM-A-Foundational-Blueprint-for-a-Hierarchically-Structured-AGI
+**This repository contains a comprehensive architectural blueprint for a new class of Artificial General Intelligence, termed AGI-HRM (Hierarchical Reasoning Model). This is not a repository of a finished, trained model. It is a foundational design document intended to provoke discussion, inspire research, and serve as a scaffold for future ai.
